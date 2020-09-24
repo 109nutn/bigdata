@@ -4,6 +4,6 @@
 |       | Slides                                                                                                    | Assessments                                          | Reference | Link |
 |-------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----------|------|
 | Week1 | [Course Introduction](https://drive.google.com/file/d/1RU9SWfQpJdhE9DQT2tuAkHSouLsmWMYh/view?usp=sharing) |                                                      |           |      |
-| Week2 | [Sorting algorithm](https://drive.google.com/file/d/1G77-RFYMUxFSC_87kefMOy4WMdk7QFJv/view?usp=sharing)   | [Assessments-1](https://forms.gle/QKvEAp1DZ6Ts4vzeA) |           |      |
+| Week2 | [統計與資料探勘介紹](https://drive.google.com/file/d/1sSHH10UKJVQ71mvYyf3hpvxcHH9n3QrC/view?usp=sharing)   | [Assessments-1](https://github.com/109nutn/data) |           |      |
 | Week3 |                                                                                                           |                                                      |           |      |
 
