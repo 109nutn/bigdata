@@ -5,5 +5,5 @@
 |-------|-----------------------------------------------------------------------------------------------------------|------------------------------------------------------|-----------|------|
 | Week1 | [Course Introduction](https://drive.google.com/file/d/1RU9SWfQpJdhE9DQT2tuAkHSouLsmWMYh/view?usp=sharing) |[專案表單](https://forms.gle/vvowjgu8LAhmFqSe6)                                                       |           |      |
 | Week2 | [統計與資料探勘介紹](https://drive.google.com/file/d/14ZSp09l0LgHU6fuJaU8P8sAtFg8O4IMM/view?usp=sharing)   | [Assessments-1](https://github.com/109nutn/data) |           |      |
-| Week3 |                                                                                                           |                                                      |           |      |
-
+| Week3 | 中秋連假                                                                                                          |                                                      |           |      |
+| Week4 | [如何讀取/匯入資料](https://drive.google.com/file/d/1BPKVns5KvXHDDrqhRFM5reB_DR-SL0D9/view?usp=sharing)   | 
