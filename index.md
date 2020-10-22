@@ -8,3 +8,4 @@
 | Week3 | 中秋連假                                                                                                          |                                                      |           |      |
 | Week4 | [如何讀取/匯入資料](https://drive.google.com/file/d/1BPKVns5KvXHDDrqhRFM5reB_DR-SL0D9/view?usp=sharing)   | 
 | Week5 | [資料型別](https://drive.google.com/file/d/1wWa3jcbzHhTtY41G0sXZggyBEf4d3AgB/view?usp=sharing) |
+| Week6 | [資料視覺化](https://drive.google.com/file/d/1d5rbTCxBUSPq2vPLeakovNQZRrDx7X_u/view?usp=sharing)   | 
