@@ -11,4 +11,4 @@
 | Week6 | [資料視覺化](https://drive.google.com/file/d/1d5rbTCxBUSPq2vPLeakovNQZRrDx7X_u/view?usp=sharing)   | 
 | Week7 | [資料視覺化](https://drive.google.com/file/d/1d5rbTCxBUSPq2vPLeakovNQZRrDx7X_u/view?usp=sharing)   | 
 | Week8 | [文字探勘](https://drive.google.com/file/d/1ADfh8o9qtI2TloCHbtW4q_S1kJTIxj9V/view?usp=sharing)   | 
-
+| Week9 | [期中考](https://drive.google.com/file/d/1AKaWyk3d2wjLZVApC_T7slbS23cKAQAK/view?usp=sharing)   | 
