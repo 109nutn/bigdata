@@ -13,3 +13,4 @@
 | Week8 | [文字探勘](https://drive.google.com/file/d/1ADfh8o9qtI2TloCHbtW4q_S1kJTIxj9V/view?usp=sharing)   | 
 | Week9 | [期中考](https://drive.google.com/file/d/1AKaWyk3d2wjLZVApC_T7slbS23cKAQAK/view?usp=sharing)   | 
 | Week10| [探索性數據分析](https://drive.google.com/file/d/1EeGZFhtP8paWG2cPpjj_j-orj3Z_tHrL/view?usp=sharing)   | 
+| Week11| [探索性數據分析](https://drive.google.com/file/d/1TCVNGJSdEPscmgafoOTvKEEQ6vh7fWKb/view?usp=sharing)   | 
