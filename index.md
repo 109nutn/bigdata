@@ -14,4 +14,5 @@
 | Week9 | [期中考](https://drive.google.com/file/d/1AKaWyk3d2wjLZVApC_T7slbS23cKAQAK/view?usp=sharing)   | 
 | Week10| [探索性數據分析](https://drive.google.com/file/d/1EeGZFhtP8paWG2cPpjj_j-orj3Z_tHrL/view?usp=sharing)   | 
 | Week11| [探索性數據分析](https://drive.google.com/file/d/1TCVNGJSdEPscmgafoOTvKEEQ6vh7fWKb/view?usp=sharing)   | 
-| Week12| [Tableau計算功能](https://ncku.ml/53tw)   | 
+| Week12| [Tableau](https://drive.google.com/file/d/1EqNu8n0eij6o6cgSz8STWJEvWIMc56dd/view?usp=sharing)   | 
+| Week13| [Tableau計算功能](https://ncku.ml/53tw)   | 
