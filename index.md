@@ -16,3 +16,4 @@
 | Week11| [探索性數據分析](https://drive.google.com/file/d/1TCVNGJSdEPscmgafoOTvKEEQ6vh7fWKb/view?usp=sharing)   | 
 | Week12| [Tableau](https://drive.google.com/file/d/1EqNu8n0eij6o6cgSz8STWJEvWIMc56dd/view?usp=sharing)   | 
 | Week13| [Tableau計算功能](https://ncku.ml/53tw)   | 
+| Week14| [資料探勘](https://drive.google.com/file/d/1d9PaQ0jWkkFZX-As49zRgD7uv1hEimY1/view?usp=sharing)   | 
